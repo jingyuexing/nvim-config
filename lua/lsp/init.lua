@@ -1,0 +1,5 @@
+require("go")
+require("html")
+require("rust")
+require("typescript")
+require("vue")
